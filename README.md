@@ -10,6 +10,6 @@ Feature are mentioned below:
 
 •Algorithm tweaking & rewriting
 
-•Adjustable speed and size
+•Adjustable size
 
 •Custom array input
