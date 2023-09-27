@@ -1,6 +1,6 @@
 # Sorting_Visualizers
 This project aims to visualize various sorting algorithms and to demonstrate the live working of how actually sorting happened.
-A static website for visualizing different comparison based sorting algorithms is mentioned :
+A static website for visualizing different comparison based sorting algorithms can be obsererved.
 
 Feature are mentioned below:
 
